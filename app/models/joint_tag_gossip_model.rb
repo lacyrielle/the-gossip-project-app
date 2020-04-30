@@ -1,0 +1,2 @@
+class JointTagGossipModel < ApplicationRecord
+end
